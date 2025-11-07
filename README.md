@@ -1,6 +1,5 @@
 # E-Commerce-Supply-Chain-Analysis-using-SQL-and-Tableau
 
-Delivery Performance Analysis Dashboard
 Developed a comprehensive Delivery Performance Analysis Dashboard to assess and optimize e-commerce delivery efficiency across multiple departments and global markets. The goal was to uncover operational inefficiencies and performance gaps in the supply chain by visualizing key metrics such as:
 
 Average Processing Time
